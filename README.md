@@ -1,8 +1,4 @@
-Claro, Victor! Aqui está um **esquema de funcionamento da horta automatizada com Arduino**, baseado na imagem que você pediu — controlando **entrada de água**, **abertura de persianas solares**, e **irrigação por servo motores**, com um **sensor LDR (Light Dependent Resistor)** para detectar luminosidade:
-
----
-
-## 🪴 Esquema de Funcionamento da Horta Automatizada com Arduino
+# 🪴 Esquema de Funcionamento da Horta Automatizada com Arduino
 ![projeto agua](https://github.com/user-attachments/assets/a9407581-8981-4162-bdef-06129cdf7ff2)
 
 ### **Objetivo Geral**
