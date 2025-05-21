@@ -1,4 +1,4 @@
-# 🪴 Esquema de Funcionamento da Horta Automatizada com Arduino
+# 🪴 Esquema de Funcionamento da Horta Automatizada com Arduino [Professor Victor Icoma]
 ![projeto agua](https://github.com/user-attachments/assets/a9407581-8981-4162-bdef-06129cdf7ff2)
 
 ### **Objetivo Geral**
